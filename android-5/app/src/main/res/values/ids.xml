@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id" />
+    <item name="textView3" type="id" />
+    <item name="textView2" type="id" />
+    <item name="textView4" type="id" />
+    <item name="textView9" type="id" />
+    <item name="hour" type="id" />
+    <item name="year" type="id" />
+    <item name="month" type="id" />
+    <item name="day" type="id" />
+    <item name="second" type="id" />
+    <item name="minute" type="id" />
+    <item name="textView8" type="id" />
+    <item name="textView10" type="id" />
+    <item name="textView5" type="id" />
+    <item name="textView6" type="id" />
+    <item name="textView7" type="id" />
+    <item name="button" type="id" />
+</resources>
